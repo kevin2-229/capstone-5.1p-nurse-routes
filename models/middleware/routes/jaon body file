@@ -1,0 +1,14 @@
+{
+  "carePlan": [
+    {
+      "task": "Administer medication",
+      "frequency": "daily",
+      "notes": "Give after meals"
+    },
+    {
+      "task": "Monitor blood pressure",
+      "frequency": "twice daily",
+      "notes": "Notify if higher than 130/90"
+    }
+  ]
+}
